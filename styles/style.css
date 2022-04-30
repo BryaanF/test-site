@@ -1,0 +1,29 @@
+html {
+    font-family: sans-serif;
+    background-color: #00539F;
+}
+
+body {
+    width: 600px;
+    background-color: #FF9500;
+    margin: 10px auto 60px;
+    padding: 10px 30px;
+    border: 4px solid black;
+}
+
+img {
+    width: 400px;
+    display: block;
+    margin: 0 auto;
+}
+
+p {
+    text-align: justify;
+    word-spacing: 2px;
+    font-size: 18px;
+}
+
+h1 {
+    font-size: 48px;
+    text-align: center;
+}
